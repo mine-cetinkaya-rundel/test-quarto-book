@@ -1,9 +1,11 @@
 {
-  "hash": "6a8d4aae57514143534a151085573c56",
+  "hash": "de7796c7fe735dd80bf6a6261e7d7e6c",
   "result": {
     "engine": "knitr",
-    "markdown": "# Yet another thing {#sec-yet-another-thing}\n\nIn summary, this book has no content whatsoever.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n",
-    "supporting": [],
+    "markdown": "# Yet another thing {#sec-yet-another-thing}\n\nIn summary, this book has no content whatsoever.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n# Exercises {#sec-exercises-2}\n\nIn summary, this book has no content whatsoever.\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n\n",
+    "supporting": [
+      "06-bar_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],
