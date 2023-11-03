@@ -1,0 +1,108 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "test-quarto-book",
+    "section": "",
+    "text": "Preface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.\n\n1 + 1\n\n[1] 2",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "landing-1.html",
+    "href": "landing-1.html",
+    "title": "A part",
+    "section": "",
+    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "crumbs": [
+      "A part"
+    ]
+  },
+  {
+    "objectID": "01-intro.html",
+    "href": "01-intro.html",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "crumbs": [
+      "A part",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "02-summary.html",
+    "href": "02-summary.html",
+    "title": "2  Summary",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2",
+    "crumbs": [
+      "A part",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Summary</span>"
+    ]
+  },
+  {
+    "objectID": "landing-2.html",
+    "href": "landing-2.html",
+    "title": "Another part",
+    "section": "",
+    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "crumbs": [
+      "Another part"
+    ]
+  },
+  {
+    "objectID": "03-hello.html",
+    "href": "03-hello.html",
+    "title": "3  Something",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2",
+    "crumbs": [
+      "Another part",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Something</span>"
+    ]
+  },
+  {
+    "objectID": "04-world.html",
+    "href": "04-world.html",
+    "title": "4  Something else",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2",
+    "crumbs": [
+      "Another part",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Something else</span>"
+    ]
+  },
+  {
+    "objectID": "05-foo.html",
+    "href": "05-foo.html",
+    "title": "5  Another thing",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2",
+    "crumbs": [
+      "Another part",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Another thing</span>"
+    ]
+  },
+  {
+    "objectID": "06-bar.html",
+    "href": "06-bar.html",
+    "title": "6  Yet another thing",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2",
+    "crumbs": [
+      "Another part",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Yet another thing</span>"
+    ]
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "crumbs": [
+      "References"
+    ]
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "hash": "ef55dc78093eedc7c335cfbb2a4d692d",
+  "result": {
+    "engine": "knitr",
+    "markdown": "# A part {.unnumbered}\n\nThis is a book created from markdown and executable code.\n\nSee @knuth84 for additional discussion of literate programming.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n",
+    "supporting": [
+      "landing-1_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
