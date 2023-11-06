@@ -2,10 +2,10 @@
 
 Some text.
 
-## Subsection 1 {#01-intro-sec-subsection-1}
+## Subsection 1 {#01-intro-01-intro-sec-subsection-1}
 
 More text.
 
-## Subsection 2 {#01-intro-sec-subsection-2}
+## Subsection 2 {#01-intro-01-intro-sec-subsection-2}
 
 Even more text.
