@@ -7,26 +7,6 @@ book:
   date: "11/3/2023"
   chapters:
     - index.qmd
-    
-    - part: landing-1.qmd
-      chapters:
-       - 01-intro.qmd
-       - 02-summary.qmd
-    
-    - part: landing-2.qmd
-      chapters:
-        - 03-hello.qmd
-        - 04-world.qmd
-        - 05-foo.qmd
-        - 06-bar.qmd
-      
-    - references.qmd
-
-bibliography: references.bib
-
-format: html
+    - 01-intro.qmd
 
 editor: visual
-
-execute:
-  freeze: auto

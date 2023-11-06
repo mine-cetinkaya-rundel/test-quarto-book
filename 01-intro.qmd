@@ -1,9 +1,11 @@
 # Introduction {#sec-introduction}
 
-This is a book created from markdown and executable code.
+Some text.
 
-See @knuth84 for additional discussion of literate programming.
+## Subsection 1 {#sec-subsection-1}
 
-```{r}
-1 + 1
-```
+More text.
+
+## Subsection 2 {#sec-subsection-2}
+
+Even more text.
